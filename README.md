@@ -1,6 +1,7 @@
 [This code serves as the teaching baseline for **Lecture 6: The Repository Pattern & Abstraction Layers**...](https://docs.google.com/document/d/1ICmy-4ladY91_VkwT9jGZWudQPdG6CUK_uyOCEr3mNs/edit?usp=sharing)
 ***
-
+>NOTE
+> >this code was based on lab-4-starter
 # Bookstore CLI - Lecture 6 (Winter 2026)
 > **Baseline Codebase for Lecture 6: The Repository Pattern & Abstraction Layers**
 
